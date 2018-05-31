@@ -1,0 +1,10 @@
+/home/george/Programming/rusty/actix_web/basics/application/target/rls/debug/deps/parking_lot_core-bba6d964c14bbf06.rmeta: /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/lib.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/thread_parker/unix.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/util.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/spinwait.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/word_lock.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/parking_lot.rs
+
+/home/george/Programming/rusty/actix_web/basics/application/target/rls/debug/deps/parking_lot_core-bba6d964c14bbf06.d: /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/lib.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/thread_parker/unix.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/util.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/spinwait.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/word_lock.rs /home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/parking_lot.rs
+
+/home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/lib.rs:
+/home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/thread_parker/unix.rs:
+/home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/util.rs:
+/home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/spinwait.rs:
+/home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/word_lock.rs:
+/home/george/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.2.14/src/parking_lot.rs:
