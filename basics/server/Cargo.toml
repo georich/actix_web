@@ -1,0 +1,8 @@
+[package]
+name = "server"
+version = "0.1.0"
+authors = ["George Richards <georich@protonmail.com>"]
+
+[dependencies]
+actix = "0.5"
+actix-web = "0.6"
